@@ -1,3 +1,4 @@
 {
-    "codetour.showMarkers": false
+    "codetour.showMarkers": false,
+    "ai.azureml.defaultWorkspaceId": "/subscriptions/4196720d-35cb-4052-9f3c-b0cae7d5b11e/resourceGroups/WebApps/providers/Microsoft.MachineLearningServices/workspaces/space-jam-a-poc"
 }
